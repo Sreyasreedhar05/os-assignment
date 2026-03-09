@@ -64,7 +64,7 @@ int main()
         }
     }
 
-    // Output
+
     printf("\nWaiting Time:\n");
     for(i = 0; i < n; i++)
     {
